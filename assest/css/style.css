@@ -1,0 +1,49 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.encabezado{
+    height: 7em;
+    padding: 3em;
+    font-size: 2em;
+    background-image: url(/desafio_22/assest/imgs/fondo2.jpg);
+    background-size: cover;
+    background-position: right;
+   
+}
+
+.encabezado h1{
+    text-align: justify;
+    color: white;
+    
+}
+
+.encabezado p{
+    text-align:left;
+    color: white;
+    margin: 0;
+    
+}
+
+.descripcion{
+    text-align:left;
+    height: 5em;
+    padding: 3em;
+    font-size: 20px;
+ 
+}
+
+
+.products td{
+    width: 50%;
+    text-align: left;
+}
+
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: burlywood;
+    text-align: center;
+    font-weight: 900;
+
+}
