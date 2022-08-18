@@ -3,12 +3,12 @@ body{
 }
 
 .encabezado{
-    height: 7em;
+    height: 5em;
     padding: 3em;
-    font-size: 2em;
-    background-image: url(/assest/imgs/fondo2.jpg);
+    font-size: 1em;
     background-size: cover;
     background-position: right;
+    background-image: url("/assest/imgs/fondo2.jpg");
    
 }
 
